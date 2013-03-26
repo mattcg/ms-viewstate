@@ -26,4 +26,4 @@ Scrub VIEWSTATE and EVENTVALIDATION hashes in markup with the default `[scrubbed
 
 ## License ##
 
-[Creative Commons Attribution 3.0 Unported (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/legalcode).
+Licensed under the MIT license (see LICENSE).
