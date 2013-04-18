@@ -26,4 +26,4 @@ Scrub VIEWSTATE and EVENTVALIDATION hashes in markup with the default `[scrubbed
 
 ## License ##
 
-Licensed under the MIT license (see LICENSE).
+Licensed under an [MIT license](http://mattcg.mit-license.org/).
